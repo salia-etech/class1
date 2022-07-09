@@ -1,0 +1,3 @@
+studentname   grade
+alpha         80
+peter         70
